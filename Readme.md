@@ -1,5 +1,5 @@
 
-<p align="center"> <h1 align="center"> Hi, I V.Karteek<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center"> <h1 align="center"> Hi, I am V.Karteek<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> </p>
@@ -15,7 +15,7 @@
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=karteek-02&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=karteek-02&show_icons=true&theme=dark&locale=en&hide_border=true" alt="karteek-02" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karteek-02&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
