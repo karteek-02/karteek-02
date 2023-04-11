@@ -30,7 +30,7 @@
 
 ***
 
--  🔭 I’m currently learning next.js.
+-  🔭 I’m currently learning Next.js.
 
 -  🌱 I’m currently working on a BookHive
 
